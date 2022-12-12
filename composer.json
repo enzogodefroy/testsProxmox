@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpseclib/phpseclib": "^3.0",
+        "mrkampf/proxmox-ve": "^0.4.4"
+    }
+}
